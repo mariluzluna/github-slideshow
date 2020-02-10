@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Practicing with commit change and pull request!"
 ---
-" File change "
+for the next slide 
 Use the left arrow to go back!
